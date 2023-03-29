@@ -26,6 +26,6 @@ Check this for inspiration:
 - https://github.com/lauragift21/lauragift21/blob/master/README.md
 -->
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+</p>
