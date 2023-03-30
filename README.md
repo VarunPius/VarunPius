@@ -68,5 +68,29 @@ Check this for inspiration:
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 
- 
+<!--
+Example with custom colors and labels:
+https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=777777
+https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=888888
+https://img.shields.io/badge/Code-Java-informational?style=flat&logo=jdk&color=888888
+https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=888888
+https://img.shields.io/badge/Data-dbt-informational?style=flat&logo=dbt&color=red
+https://img.shields.io/badge/Data-mysql-informational?style=flat&logo=mysql&color=red
+https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgresql&color=red
+https://img.shields.io/badge/Data-Spark-informational?style=flat&logo=apachespark&color=red
+https://img.shields.io/badge/Library-fastapi-informational?style=flat&logo=fastapi&color=2bbc8a
+https://img.shields.io/badge/Library-flask-informational?style=flat&logo=flask&color=2bbc8a
+https://img.shields.io/badge/Library-poetry-informational?style=flat&logo=poetry&color=2bbc8a
+https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=blue
+https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=blue
+https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&color=blue
+https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=apacheairflow&color=blue
+https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=orange
+https://img.shields.io/badge/Hobby-PS4-informational?style=flat&logo=#FF0000&logoColor=white&color=black
+
+Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
+-->
+
+---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
