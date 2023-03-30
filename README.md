@@ -96,5 +96,5 @@ Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
 -->
 
 ---
-
+   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
