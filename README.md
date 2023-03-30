@@ -26,4 +26,26 @@ Check this for inspiration:
 - https://github.com/lauragift21/lauragift21/blob/master/README.md
 -->
 
+# `whoami`
+```python
+class WhoAmI:
+    user = 'Varun Pius Rodrigues'
+    current_role = 'Senior Data Engineer'
+    hobbies = [
+                'Reading',
+                'Watching Crime Movies',
+                'Coding Personal Projects',
+                'Being up all Night chasing that ONE BUG...'
+            ]
+    
+    def getCity():
+        return 'Vancouver, CA'
+    
+    def Ambitions():
+        CookDateNightMeal()
+        BuildMyOwnCompiler()
+        BrewThePerfectCupOfCoffee()
+
+ ```
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
