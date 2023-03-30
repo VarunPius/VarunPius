@@ -28,28 +28,29 @@ Check this for inspiration:
 
 ## Who am I?
  ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
+class WhoAmI:
+    user = 'Varun Pius Rodrigues'
+    current_role = 'Senior Data Engineer'
+    hobbies = [
+                'Reading',
+                'Watching Crime Movies',
+                'Coding Personal Projects',
+                'Being up all Night chasing that ONE BUG...'
+            ]
+    
+    def getCity():
+        return 'Vancouver, CA'
+    
+    def Ambitions():
+        CookDateNightMeal()
+        BuildMyOwnCompiler()
+        BrewThePerfectCupOfCoffee()
  ```
+
  
- # Technologies used
+# Technologies used
+<!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
+
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)
 ![OpenJDK](https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=)
@@ -92,5 +93,6 @@ Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
 -->
 
 ---
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
