@@ -26,7 +26,7 @@ Check this for inspiration:
 - https://github.com/lauragift21/lauragift21/blob/master/README.md
 -->
 
-# `whoami`
+# `$ whoami`
 ```python
 class WhoAmI:
     user = 'Varun Pius Rodrigues'
