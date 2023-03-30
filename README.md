@@ -26,7 +26,7 @@ Check this for inspiration:
 - https://github.com/lauragift21/lauragift21/blob/master/README.md
 -->
 
-## Who am I?
+## `$ whoami`
  ```python
 class WhoAmI:
     user = 'Varun Pius Rodrigues'
@@ -48,7 +48,7 @@ class WhoAmI:
  ```
 
  
-# Technologies used
+## Technologies used
 <!--
 Link for Logos: https://github.com/progfay/shields-with-icon
 Raw File: https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
@@ -96,5 +96,12 @@ Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
 -->
 
 ---
-   
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true">
+</p>
+
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+-->
