@@ -49,7 +49,10 @@ class WhoAmI:
 
  
 # Technologies used
-<!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
+<!--
+Link for Logos: https://github.com/progfay/shields-with-icon
+Raw File: https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md
+-->
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)
@@ -93,6 +96,5 @@ Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
 -->
 
 ---
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VarunPius&theme=transparent&hide_border=true)](https://git.io/streak-stats)
