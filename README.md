@@ -94,6 +94,8 @@ https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&c
 https://img.shields.io/badge/Hobby-PS4-informational?style=flat&logo=#FF0000&logoColor=white&color=black
 
 Inspired by: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md
+
+Have a look at this: https://github.com/LazyVim/LazyVim/blob/main/README.md
 -->
 
 ---
