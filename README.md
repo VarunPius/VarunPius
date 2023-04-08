@@ -33,7 +33,7 @@ class WhoAmI:
     current_role = 'Senior Data Engineer'
     hobbies = [
                 'Reading',
-                'Watching Crime Movies',
+                'Watching Crime Dramas',
                 'Coding Personal Projects',
                 'Being up all Night chasing that ONE BUG...'
             ]
