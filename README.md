@@ -72,6 +72,7 @@ Raw File: https://raw.githubusercontent.com/progfay/shields-with-icon/master/REA
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 
 <!--
 Example with custom colors and labels:
